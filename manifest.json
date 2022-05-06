@@ -3,7 +3,7 @@
   "vendor": "echidna",
   "version": "0.0.1",
   "title": "Live Chat",
-  "description": "This app can be used for live chatting with store customers.",
+  "description": "This pixel app allows you to integrate Live Chat account with VTEX.",
   "billingOptions": {
     "termsURL": "https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy",
     "support": {
